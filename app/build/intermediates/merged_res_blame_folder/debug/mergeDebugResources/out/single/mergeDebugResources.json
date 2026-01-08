@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.chesstastic.app-debug-44:/drawable_ic_launcher.xml.flat",
+        "source": "com.chesstastic.app-main-46:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jrtag\\.gradle\\daemon\\9.0-milestone-1\\com.chesstastic.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jrtag\\.gradle\\daemon\\9.0-milestone-1\\com.chesstastic.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jrtag\\.gradle\\daemon\\9.0-milestone-1\\com.chesstastic.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jrtag\\.gradle\\daemon\\9.0-milestone-1\\com.chesstastic.app-main-46:\\xml\\backup_rules.xml"
+    }
+]
